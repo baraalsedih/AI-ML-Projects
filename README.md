@@ -25,5 +25,5 @@
 4. [Tile Grout Filling Robot - IOT with AI for Gaps detection](https://github.com/University-Experience/Tile-Grout-Filling-Robot)
 5. [AI Nim Game](https://github.com/University-Experience/nim-game)
 6. [Fruit Recognition System - Built Neural Networks without external libraries](https://github.com/University-Experience/FruitRecognitionSystem)
-7. [Color Detection](https://github.com/University-Experience/Color-Detection)
+7. [Color Detection - OpenCV](https://github.com/University-Experience/Color-Detection)
 8. [Image Processing Filtering - OpenCV](https://github.com/University-Experience/ImageProcessing-Filtering)
