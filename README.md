@@ -1,6 +1,6 @@
 # Headline Coming Soon!
 
-Here I have put links to all of my work in AI/ML and Data analysis, through many internships, and bootcamps, and personal or freelance work.
+Here I have put links to all of my work in AI/ML and Data analysis, through many internships, bootcamps, and personal or freelance work.
 
 ## Internships and Bootcamps: 
 
