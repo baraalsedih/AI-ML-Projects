@@ -15,6 +15,7 @@
 1. [Mental Health Chatbot - Fine-Tune Llama 3.2 3B (bilingual)](https://github.com/Hackathon-TeamP2-5)
 2. [Personalized Math Rewriter - Team Lead](https://github.com/Spark-Hackathon4-Team4)
 3. [AI-Based Resume Ranker - Team Lead](https://github.com/Spark-Hackathon4-Team10)
+4. [DataBridge - Data Analysis](https://github.com/DataCamp-Internship/DataBridge-Hackathon)
 
 
 ## Projects
