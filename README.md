@@ -2,7 +2,7 @@
 
 ## Internships and Bootcamps: 
 
-1. [Deep Learning Internship (Tasks + Projects](https://github.com/DeepLearningIntern)
+1. [Deep Learning Internship (Tasks + Projects)](https://github.com/DeepLearningIntern)
 2. [Udacity Machine Learning Internship (Tasks + Projects)](https://github.com/Udacity-MachineLearning-Internship)
 3. [(Gen AI) Google Cloud Q1 Startup School 2025](https://github.com/baraalsedih/Google-Cloud-Q1-Startup-School-2025)
 4. [Data Analytics Bootcamp (Tasks + Projects)](https://github.com/Data-Analyst-Bootcamp)
