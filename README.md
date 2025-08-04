@@ -1,4 +1,14 @@
-# Headline Coming Soon!
+<div align="center">
+
+# **Bara Al-Sedih**
+
+📞 +972 59940 7644 | 📧 [baraalsedih@gmail.com](mailto:baraalsedih@gmail.com)
+
+💼 [LinkedIn](https://www.linkedin.com/in/bara-alsedih/) | 💻 [Portfolio](https://baraalsedih.netlify.app/)
+
+*Junior Machine Learning Developer with 1+ year of hands-on experience through structured Udacity programs, freelance projects, and internships. Proficient in supervised and unsupervised learning, deep learning (CNNs, GNNs), reinforcement learning, time series forecasting, and object detection using YOLO. Experienced with tools and platforms like TensorFlow, Scikit-learn, OpenAI, HuggingFace, Ollama, Google Colab, and Kaggle. Integrated AI models into web applications as a Full-Stack Developer, and I have worked with frameworks such as n8n for automation and LangChain for Retrieval-Augmented Generation (RAG).*
+
+</div>
 
 Here I have put links to all of my work in AI/ML and Data analysis, through many internships, bootcamps, and personal or freelance work.
 
