@@ -1,5 +1,7 @@
 # Headline Coming Soon!
 
+Here I have put links to all of my work in AI/ML and Data analysis, through many internships, and bootcamps, and personal or freelance work.
+
 ## Internships and Bootcamps: 
 
 1. [Deep Learning Internship (Tasks + Projects)](https://github.com/DeepLearningIntern)
